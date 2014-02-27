@@ -14,6 +14,7 @@ import java.util.Scanner;
 
 public class Play {
 	public Play() {
+		super();
 
 	}
 
