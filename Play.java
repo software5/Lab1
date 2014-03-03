@@ -1,4 +1,4 @@
-package Lab;
+package Lab1;
 
 /*
  Play class for Hangman.java
@@ -14,8 +14,6 @@ import java.util.Scanner;
 
 public class Play {
 	public Play() {
-		super();
-
 	}
 
 	public void Start() {
